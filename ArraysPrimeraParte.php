@@ -26,7 +26,7 @@
        "UCAM Murcia CB",
        "Valencia Basket Club",
      ];
-     //Imorimimos el Array usando print_r()
+     //Imprimimos el Array usando print_r()
      print_r ($EndesaBasket);
      ?>
   </body>
